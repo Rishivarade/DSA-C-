@@ -14,6 +14,8 @@ using namespace std;
 //    return 0;
 //}
 
+//output:- 20 10 
+
 
 //swap of variables without third variable:-
 //int main(){
@@ -29,6 +31,8 @@ using namespace std;
 //	
 //	return 0;
 //}
+
+//output:- 20 10
 
 
 //swap of variables without third variable ,+ and -. :-
@@ -46,6 +50,8 @@ using namespace std;
 //	return 0;
 //}  
 
+//output:- 20 10 
+
 //swap of variables without third variable ,+ ,-,*,/. :-
 //int main(){
 //	int a = 10;
@@ -61,7 +67,9 @@ using namespace std;
 //	
 //	
 //	return 0;
-//}
+//} 
+//output:- a= 10
+          b= 10
 
 
 
