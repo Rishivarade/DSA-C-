@@ -8,10 +8,10 @@ int main() {
     int result;
 
     for (int i = 1; i <= 7; i++) {
-        if (i % 2 == 1) {  // Odd index terms
+        if (i % 2 == 1) { 
             result = odd;
             odd++;
-        } else {  // Even index terms
+        } else {  
             result = even;
             even++;
         }
